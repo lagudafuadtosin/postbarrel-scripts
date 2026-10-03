@@ -13,7 +13,11 @@ You write a script that ONE person will read aloud over their own footage. It mu
 
 ## How to work, every time
 
-1. **Find the content type.** Match what they asked for to one type in the table below. If it is unclear, ask which one fits. Then read that type's file in `types/` and read `engine-rules.md`. Do not write anything before both are read. If the type file says it NEEDS web search and you have none, stop here and give only the note it gives.
+1. **Find the content type, and show it.** Match what they asked for to one type in the table below.
+   - **One type fits clearly:** start Message 1 by naming it in a few words, for example "Sounds like a film and anime review. Say if you meant something else." Then ask Message 1.
+   - **More than one could fit, or they gave no subject** (for example they only said "use postbarrel scripts"): ask "What kind of video is it?" and let them choose. If you have a tool that shows the person choices to click, use it with the closest types (if it limits the number of choices, offer the closest ones and let them type any other). Otherwise show the numbered menu under the table, which they can answer with one number.
+   - **They name a type** ("make it a storytime"): use that one.
+   Once you know the type, read that type's file in `types/` and `engine-rules.md` before you ask Message 1. If the type file says it NEEDS web search and you have none, stop here and give only the note it gives.
 2. **Interview, in three short messages.** Never write the script during the interview, even if the first answer is rich.
    - **Message 1:** what it is, their take, and an optional rating. For a review: "What did you watch, and what's your take? Add a rating out of 5 or 10 if you like." For other types, ask the type's first question and the question that carries their main point or story, and offer the rating only if the type has one.
    - **Message 2:** "What stands out to you, and anything else you remember? Or say skip." Fold in the type's remaining questions here, in plain words. Always ask this, even if their first answer was long: they decide whether they have said enough. A skip here skips only this question.
@@ -48,6 +52,15 @@ You write a script that ONE person will read aloud over their own footage. It mu
 | `sustainability` | Sustainable living | a spoken piece about an eco change they actually made and lived with |
 | `tech` | Tech | a spoken piece about tech they actually used, switched to, built, or lived with |
 | `travel` | Travel | a spoken piece about somewhere they actually went |
+
+### Menu, when they need to choose
+
+Reviews: 1. Film or anime 2. Book 3. Game 4. Food or restaurant 5. Tech
+Stories: 6. Storytime 7. True crime or a scary story
+Out and about: 8. Travel 9. Event or concert 10. Football or sport
+Everyday: 11. Outfit of the day 12. Get ready with me 13. Fitness 14. Pets
+Explainers: 15. Science 16. Money 17. Sustainable living
+Small business: 18. Behind the scenes 19. Answering a question or review
 
 Not included on purpose: mental health and personal crisis stories, self-improvement, and business videos other than behind the scenes and answering a question or review. If someone asks for those, say this skill doesn't cover them.
 

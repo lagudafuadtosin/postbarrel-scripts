@@ -1,7 +1,7 @@
 {
   "name": "postbarrel-scripts",
   "displayName": "Postbarrel scripts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Writes short-form video scripts (TikTok, Reels, Shorts) that sound like the creator, not like an AI. Interviews first, writes only from their answers.",
   "author": {
     "name": "Fuad Laguda",

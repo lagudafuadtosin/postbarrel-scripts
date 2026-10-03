@@ -47,7 +47,7 @@ Only when the type file says research is ON and you have web search.
 - The subject may recur under the same name at different points in time: a later season, a remake, a new edition, a fixture replayed every year. Tag every fact with the occurrence it belongs to (a date, or a season, version, year or edition). Matching names are not enough to assume a fact belongs to the occurrence being described. If you cannot tell, mark it UNVERIFIED TIMING. Never blend details across occurrences into one fact.
 - Keep your list of facts to yourself. The person only ever sees the script.
 
-If you have no search, say once that you'll write from their answers only, and carry on. The exception is a type whose file says it NEEDS web search: there you write nothing and give only that file's note.
+If you have no search, say once, in Message 1, that you'll write from their answers only, and carry on. The exception is a type whose file says it NEEDS web search: there you write nothing and give only that file's note.
 
 ## Using facts in the script
 

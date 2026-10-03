@@ -25,17 +25,36 @@ Made by Fuad Laguda. The same method runs the Postbarrel app at https://postbarr
 
 **Claude chat without the directory:** download `postbarrel-scripts.zip` from the Releases page of this repository, open Settings, find Skills, and upload the zip.
 
-Then ask for a script, for example "write me a review script for the film I watched last night".
+## How to start
+
+Ask for the video you want in plain words. You do not pick a type first. The skill matches your request to one of the 19 types and tells you which one it picked in its first message, so you can say if you meant another.
+
+- "Write me a review of the anime I just finished" becomes a film and anime review
+- "I want to tell the story of my worst flatmate" becomes a storytime
+- "Script for my outfit at my cousin's wedding" becomes an outfit of the day
+- "Explain why octopuses have three hearts" becomes a science explainer
+- "A video replying to a bad review of my bakery" becomes answering a review
+
+If your request could be more than one type, or you just say "use Postbarrel scripts", it shows you the list of types to choose from. Where Claude can show buttons you click one, otherwise you reply with a number.
+
+To choose the type yourself, name it: "make it a storytime".
 
 ## How it works
 
-1. It asks what you watched, did or want to talk about, and your take. Reviews can add a rating.
+1. It asks what it is and your take. Reviews can add a rating out of 5 or 10.
 2. It asks what stands out and anything else you remember. Say skip if you have nothing to add.
-3. It asks how long, in words, with a rough time beside each choice.
+3. It asks how long. Pick one: 40 to 70 words (under 30 seconds), 150 to 220 words (about 1 minute), 220 to 300 words (about 2 minutes), 300 to 750 words (2 to 5 minutes), or 750 to 1450 words (5 to 10 minutes).
 
-Say "write it" or "go" at any point and it writes straight away with what you have given.
+Then it writes the script, with a short title.
 
-If your answers are short for the length you picked, it still writes to that length and puts a note at the top telling you it padded the script.
+- Say "write it" or "go" at any point and it writes straight away with what you have given.
+- If your answers are short for the length you picked, it still writes to that length and puts a note at the top telling you it padded the script.
+- Want changes? Say what to change. It changes only that and keeps the rest.
+- Part of a series? Say so and paste your earlier scripts. It can call back to what you said before, lightly, and only where it fits.
+- Small business videos ask once for a short description of your business and reuse it in the same chat.
+- It writes in the language and the kind of English you write to it in.
+
+Not covered on purpose: mental health and personal crisis stories, self-improvement, and business videos other than behind the scenes and answering a question or review.
 
 ## Web search
 
