@@ -1,0 +1,16 @@
+{
+  "name": "postbarrel-scripts",
+  "displayName": "Postbarrel scripts",
+  "version": "1.0.0",
+  "description": "Writes short-form video scripts (TikTok, Reels, Shorts) that sound like the creator, not like an AI. Interviews first, writes only from their answers.",
+  "author": {
+    "name": "Fuad Laguda",
+    "url": "https://postbarrel.com"
+  },
+  "homepage": "https://github.com/lagudafuadtosin/postbarrel-scripts",
+  "repository": "https://github.com/lagudafuadtosin/postbarrel-scripts",
+  "license": "CC-BY-4.0",
+  "keywords": ["video", "scripts", "tiktok", "reels", "shorts", "creators", "writing"],
+  "documentationUrl": "https://github.com/lagudafuadtosin/postbarrel-scripts#readme",
+  "supportUrl": "https://github.com/lagudafuadtosin/postbarrel-scripts/issues"
+}
