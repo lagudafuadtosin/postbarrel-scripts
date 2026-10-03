@@ -10,7 +10,17 @@
   "homepage": "https://github.com/lagudafuadtosin/postbarrel-scripts",
   "repository": "https://github.com/lagudafuadtosin/postbarrel-scripts",
   "license": "CC-BY-4.0",
-  "keywords": ["video", "scripts", "tiktok", "reels", "shorts", "creators", "writing"],
+  "keywords": [
+    "video",
+    "scripts",
+    "tiktok",
+    "reels",
+    "shorts",
+    "creators",
+    "writing"
+  ],
   "documentationUrl": "https://github.com/lagudafuadtosin/postbarrel-scripts#readme",
-  "supportUrl": "https://github.com/lagudafuadtosin/postbarrel-scripts/issues"
+  "supportUrl": "https://github.com/lagudafuadtosin/postbarrel-scripts/issues",
+  "privacyPolicyUrl": "https://github.com/lagudafuadtosin/postbarrel-scripts/blob/main/PRIVACY.md",
+  "termsOfServiceUrl": "https://github.com/lagudafuadtosin/postbarrel-scripts/blob/main/LICENSE"
 }
